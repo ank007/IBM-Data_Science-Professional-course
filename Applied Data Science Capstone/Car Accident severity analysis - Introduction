@@ -1,11 +1,14 @@
 The Seattle Police Department maintains a record of all the car collision incidents that occur within its jurisdictional limits, which is updated weekly on its website. 
 
 An analysis of the car collision dataset may reveal interesting observations and patterns regarding the occurrence of car collisions, such as:
-Days of week which are more prone to accidents.
-Time of the day in which accidents are more likely to occur.
-Accident prone localities and streets.
-Whether some areas have a high occurrence of accidents during nighttime.
-Whether weather conditions affect the occurrence/severity of accidents.
-Whether road conditions affect the occurrence/severity of accidents.
+ Days of week which are more prone to accidents.
+ Time of the day in which accidents are more likely to occur.
+ Accident prone localities and streets.
+ Whether some areas have a high occurrence of accidents during nighttime.
+ Whether weather conditions affect the occurrence/severity of accidents.
+ Whether road conditions affect the occurrence/severity of accidents.
 
-Audience: The analysis could be of particular interest to the Traffic departments and civic agencies who might be looking for ways to reduce the accidents and resulting injuries/fatalities by identifying zones and situations which have a higher incidence of collisions and help them take appropriate measures for the same.
+Audience: The analysis could be of particular interest to:
+ Traffic departments and civic agencies who might be looking for ways to reduce the accidents and resulting 
+ injuries/fatalities by identifying zones and situations which have a higher incidence of collisions and help them take appropriate measures for the same. 
+ Residents, drivers and pedestrians who could be warned about the likelihood of an accident on their travel route based on the location, weather, road conditions, etc.
