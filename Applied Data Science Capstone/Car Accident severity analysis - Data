@@ -1,8 +1,0 @@
-The Data-Collisions.csv dataset has 194673 rows and 38 columns. Each accident has an unique primary and secondary key. Each accident location is uniquely identified through ESRI 
-unique identifiers and geometry fields. Description of the general location of the accident site, type of the address(whether it is an alley/block/intersection), codes identifying
-the lane/crosswalk are also available in addition to the time and date of the accident.
-The severity of the accident is denoted by the severity code. The type of collision, the number of people and vehicles involved, total number of injuries, further segregated by 
-serious injuries and fatalities are also available.
-The role of the driver in the accident, whether it was due to inattention, intoxication, weather/road conditions, speeding, whether right of way was given to pedestrian and 
-whether it involved colliding with a parked car is also available in the dataset.
-A few more columns are also available in the dataset which do not seem to be very useful and would be dropped for the purpose of the analysis.
